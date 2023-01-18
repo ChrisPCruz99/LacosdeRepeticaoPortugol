@@ -1,1 +1,1 @@
-# LacosdeRepeticaoPortugol
+Logica de programação e exercícios
