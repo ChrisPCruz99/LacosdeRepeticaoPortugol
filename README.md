@@ -1,1 +1,1 @@
-Logica de programação e exercícios
+Logica de programação e exercícios de laços de repetição
